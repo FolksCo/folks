@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5be1a8fce08bd7d9bb78198754eca9f6.js"
+  "/folks/precache-manifest.de3b8184c4949071c1e554ff0a833ffa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "folks_website"});
